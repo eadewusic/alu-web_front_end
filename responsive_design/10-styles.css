@@ -761,6 +761,26 @@ html {
       padding: 2rem;
     }
 
+    #section-title {
+      font-size: 350% !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+      padding-bottom: 4rem;
+      padding-top: 6rem;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .section-title {
+      font-size: xx-large !important;
+    }
+
+    #section-title {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+      padding-bottom: 4rem;
+      padding-top: 6rem;
+    }
   }
 
   /* Section Latest news
