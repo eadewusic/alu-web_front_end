@@ -565,7 +565,7 @@ html {
       }
 
       .header .menu-icon {
-        display: block;
+        display: block !important; /* without the "!important", the hamburger would not show on screens with max-width of 767px but will show on screens with max-width of 480px */
       }
     }
 
