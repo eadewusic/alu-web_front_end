@@ -1,6 +1,6 @@
 # Responsive Design for Techium
 
-![Project Preview](./responsive_design/images/Techium-landing-page.png)
+![Project Preview](responsive_design/images/Techium-landing-page.png)
 
 ## Description
 
