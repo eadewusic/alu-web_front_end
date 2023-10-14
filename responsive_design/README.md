@@ -1,6 +1,6 @@
 # Responsive Design for Techium
 
-![Project Preview](./Images/Techium-landing-page.png)
+![Project Preview](./responsive_design/images/Techium-landing-page.png)
 
 ## Description
 
@@ -67,4 +67,4 @@ If you have any questions, feedback, or collaboration requests, please feel free
 
 ## See Wireframe
 
-![Wireframe Preview](Images/Techium-project-mobile-version.png)
+![Wireframe Preview](./responsive_design/images/Techium-project-mobile-version.png)
