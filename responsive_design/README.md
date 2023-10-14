@@ -67,4 +67,4 @@ If you have any questions, feedback, or collaboration requests, please feel free
 
 ## See Wireframe
 
-![Wireframe Preview](./responsive_design/images/Techium-project-mobile-version.png)
+![Wireframe Preview](images/Techium-project-mobile-version.png)
