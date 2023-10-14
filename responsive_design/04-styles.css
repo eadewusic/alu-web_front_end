@@ -469,19 +469,19 @@ template {
 
   @media(max-width: 767px) {
     :root {
-        --nav-item-margin: 0;
+      --nav-item-margin: 0;
     }
 
     .navbar-menu {
-        display: none; /* The navbar is not allowing the website to fit the window. We will temporarily hide it and create a mobile navbar later. */
-        flex: 1;
+      display: none; /* The navbar is not allowing the website to fit the window. We will temporarily hide it and create a mobile navbar later. */
+      flex: 1;
     }
 
     .header .nav {
-        flex-direction: column;
-        overflow: hidden;
-        max-height: 0;
-        transition: max-height .2s ease-out;
+      flex-direction: column;
+      overflow: hidden;
+      max-height: 0;
+      transition: max-height .2s ease-out;
     }
   }
   
